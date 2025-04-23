@@ -11,7 +11,7 @@ TimeStamp: “Eltex. Временные файлы очищены”
 ## Руководство пользователя
 Подтяните репозиторий к себе, это можно сделать следующей командой
 ```powershell
-git clone homostultus39/datagile_siem_test.git
+git clone https://github.com/homostultus39/datagile_siem_test.git
 ```
 Далее откройте PowerShell, перейдите в директорию с проектом и введите следующую команду
 ```powershell
